@@ -1,6 +1,6 @@
-## About Me
+## Luiz Eduardo da Silva
 
-I am a Information Systems student at University of São Paulo (USP), with a growing interest in backend development, particularly in Java. I am at the beginning of my technical journey, building a solid foundation through academic projects and independent studies.
+I am a Information Systems student at University of São Paulo (USP), Brazil, with a growing interest in backend development, particularly in Java. I am at the beginning of my technical journey, building a solid foundation through academic projects and independent studies.
 
 ## My Skills
 
